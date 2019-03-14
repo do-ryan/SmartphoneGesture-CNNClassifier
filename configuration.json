@@ -1,0 +1,7 @@
+{
+  "batch_size": 64,
+  "learning_rate": 0.2,
+  "num_epochs": 7,
+  "eval_every": 20,
+  "val_set_portion": 0.1
+}
